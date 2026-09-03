@@ -4,7 +4,8 @@ A repo connecting (eventually) to my personal plant database. I will keep everyt
 This is a self hosted Plant Database made by me!
 It will connect to two websites (when finished) which are Plants.Pirate2122.com and Carnivores.Pirate2122.com
 
-## The features for this site and repo will be including (but not limited to):
+## Features
+The features for this site and repo will be including (but not limited to):
 * Photos
 * Dates
 * Plant Notes and Info
