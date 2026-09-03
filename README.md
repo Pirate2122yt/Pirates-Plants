@@ -21,6 +21,8 @@ GitHub is used as the source repository and for version control.
 
 ## License
 The website's source code is licensed under the MIT License.
+
 Plant photographs, personal content, and other original media in this repository remain the property of their Me (Pirate2122yt) unless otherwise stated.
+
 The MIT License does not grant permission to reuse these photographs or personal media
 
