@@ -1,0 +1,14 @@
+name: Purple Pitcher Plant
+scientific_name: Sarracenia Purpurea
+category: Sarracenia
+status: active
+date_acquired: '2026-07-25'
+location: Plant Shelves
+growing_conditions:
+  light: 400+ PPFD
+  water: Bottom Water or Mist Daily
+  substrate: Sphagnum-Perlite
+  temperature: '-4 - 86 F'
+  humidity: 60-90%
+photos:
+  - photos/
