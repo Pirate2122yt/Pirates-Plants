@@ -1,0 +1,14 @@
+name: Spider Plant
+scientific_name: Chlorophytum Comosum
+category: House Plants
+status: active
+date_acquired: '2026-08-08'
+location: Plant Shelves
+growing_conditions:
+  light: Medium
+  water: Daily
+  substrate: Potting Soil
+  temperature: House Temps
+  humidity: Moderate
+photos:
+  - photos/
