@@ -2,19 +2,13 @@ name: Pinguicula Laueana
 scientific_name: Pinguicula laueana
 category: Pinguicula
 status: active
-
-date_acquired:
-
-location:
-
+date_acquired: '2026-07-25'
+location: Plant Shelves
 growing_conditions:
-  light:
-  water:
-  substrate:
-  temperature:
-  humidity:
-
-notes:
-
+  light: Indirect
+  water: Bottom Water or Mist
+  substrate: Sphagnum and Perlite
+  temperature: 50-85 F
+  humidity: 40-70%
 photos:
   - photos/
